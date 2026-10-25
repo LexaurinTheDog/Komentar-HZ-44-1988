@@ -202,6 +202,11 @@ Oprávnění vzniká stanovením dobývacího prostoru, ale dobývat lze až po 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 81/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBE09B022FC441ECC1257F7800414FCF?openDocument) — 9. 12. 2015, kat. A
+  > „K projednání a rozhodnutí sporu o určení práv k dobývacímu prostoru není dána pravomoc soudu v občanském soudním řízení"
+
 #### Kritéria vymezení (odst. 1)
 
 Dobývací prostor je prostorově vymezená část zemské kůry, v níž organizace smí dobývat výhradní ložisko. Vymezuje se **na základě výsledků průzkumu** podle rozsahu, uložení, tvaru a mocnosti ložiska tak, aby ložisko mohlo být **hospodárně vydobyto**. Výchozím podkladem je stanovené **chráněné ložiskové území** (§ 17), s nímž musí být návrh v souladu (§ 28 odst. 6). Současně se přihlíží k sousedním ložiskům a k vlivu dobývání, tj. i k dosahu poddolování a deformací povrchu.
@@ -315,6 +320,11 @@ Hranice dobývacího prostoru jsou geometricky určené souřadnicemi. Vertikál
 > (9) Podrobnosti o návrzích dobývacích prostorů a o postupu při jejich stanovení, změnách, zrušení a evidenci stanoví Český báňský úřad obecně závazným právním předpisem.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 81/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BBE09B022FC441ECC1257F7800414FCF?openDocument) — 9. 12. 2015, kat. A
+  > „K projednání a rozhodnutí sporu o určení práv k dobývacímu prostoru není dána pravomoc soudu v občanském soudním řízení"
 
 #### Příslušnost a obsah rozhodnutí (odst. 1 až 3)
 
